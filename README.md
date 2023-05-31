@@ -1,1 +1,1 @@
-# eventManagementSystem
+Through the UI the users can access the functions of the system. In this system there are three types of users Administrator, Student, Volunteers respectively. The UI has been integrated with MY SQL server for the back end. I.e., to access the database and tables and also for verifying. Proposed Online event management will eliminate all the manual intervention through UI.
