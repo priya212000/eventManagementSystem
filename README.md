@@ -1,1 +1,5 @@
-Through the UI the users can access the functions of the system. In this system there are three types of users Administrator, Student, Volunteers respectively. The UI has been integrated with MY SQL server for the back end. I.e., to access the database and tables and also for verifying. Proposed Online event management will eliminate all the manual intervention through UI.
+• The Online Event Management System is a web-based application designed to streamline and automate the process of organizing and managing events. The system utilizes various software technologies for both the front end and back end, including HTML, CSS, PHP, MySQL Server (PHPMyAdmin), and XAMPP
+
+• The front-end of the system, developed using HTML, CSS, and PHP and enables tasks like event registration and feedback submission.
+
+• The PHP-powered back-end manages core functionalities and uses MySQL Server for efficient data storage and retrieval, with PHPMyAdmin for database management.
