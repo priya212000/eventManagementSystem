@@ -1,0 +1,96 @@
+h1{
+    text-align: center;
+    color:royalblue;
+    font-size: 40px;
+}
+h4{
+    text-align: center;
+    color:gray;
+    font-size: 25px;
+    
+}
+label
+{
+    font-size: 18px;
+}
+fieldset
+{ border-style:double;
+    border-width: 5px;
+    border-color: coral;
+
+
+}
+td[name="title"]
+{
+    width: 75%;
+    padding: 10px;
+}
+input[type="text"]
+{
+    margin-top: 5px;
+    margin-left: 5px;
+    margin-bottom: 5px;
+    padding: 10px;
+    border-style:double;
+    border-width: 2px;
+    border-color: brown;
+    width: 100%;
+    color:black;
+}
+textarea
+{
+    margin-top: 5px;
+    margin-left: 5px;
+    margin-bottom: 5px;
+    padding: 10px;
+    border-style:double;
+    border-width: 2px;
+    border-color: brown;
+    width: 100%;
+    color:black;
+}
+input[type="submit"]
+{
+    margin-top: 5px;
+    margin-left: 15px;
+    margin-bottom: 5px;
+    padding: 10px;
+    border-style:double;
+    border-width: 2px;
+    border-color: brown;
+    width: 85%;
+    color:blue;
+    text-align:center;
+    font-size: 15px;
+    align-items: center;
+    
+}
+input[type="date"]
+{
+    margin-top: 5px;
+    margin-left: 5px;
+    margin-bottom: 5px;
+    padding: 10px;
+    border-style:double;
+    border-width: 2px;
+    border-color: brown;
+    width: 100%;
+    color: black;
+    
+}
+form
+{
+    
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-bottom: 50px;
+    margin-right: 50px;
+}
+body
+{
+    margin-top: 50px;
+    margin-left: 80px;
+    margin-bottom: 70px;
+    margin-right: 100px;
+    align-items: center;
+}

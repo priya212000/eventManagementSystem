@@ -1,0 +1,60 @@
+body {
+    text-align: center;
+    margin-top: 200px;
+    margin-left: 500px;
+    margin-right: 500px;
+    background-color:antiquewhite;
+  }
+  h1{
+      color:crimson;
+  }
+  
+table{
+    text-align: center;
+    align-content: center;
+    width: 100%;
+    padding: 2px;
+}
+fieldset{
+    border: 2px;
+    border-color: brown;
+    border-style: double;
+    padding: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+input[type="text"]
+{
+    text-align: center;
+    width: 100%;
+    height: 45px;
+    padding: 5px;
+    border-color: brown;
+}
+input[type="password"]
+{
+    text-align: center;
+    width: 100%;
+    height: 45px;
+    padding: 3px;
+    border-color: brown;
+}
+input[name="signup"]
+{
+    text-align: center;
+    width: 50%;
+    height: 40px;
+    padding: 3px;
+    
+    border-color: brown;
+}
+input[name="login"]
+{
+    text-align: center;
+    width: 80%;
+    height: 40px;
+    padding: 3px;
+    
+    border-color: brown;
+}
+  
